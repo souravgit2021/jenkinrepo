@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hii from bash script"
+echo "hii from bash scriff"
