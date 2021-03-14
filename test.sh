@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hii from bash scriffs"
+echo "hii from bash stufs"
