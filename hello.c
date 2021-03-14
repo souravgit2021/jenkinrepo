@@ -2,6 +2,6 @@
 #include<conio.h>
 int main()
 {
-printf("Hellow from C programm");
+printf("Hellow from C program");
 return 0;
 }
